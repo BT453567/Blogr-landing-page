@@ -3,8 +3,8 @@ const menuButton = document.getElementById('menu-button');
 const menu = document.getElementById('nav-bar-mobile');
 const body = document.getElementById("body");
 const menuButtonIcon = document.getElementById('menu-button-icon');
-const hamburgerIcon = '../assets/images/icon-hamburger.svg';
-const closeIcon = '../assets/images/icon-close.svg';
+const hamburgerIcon = './assets/images/icon-hamburger.svg';
+const closeIcon = './assets/images/icon-close.svg';
 const mobileProductButton = document.getElementById('mobile-product-menu-link');
 const mobileMenuLinks = document.querySelectorAll('.mobile-link');
 
